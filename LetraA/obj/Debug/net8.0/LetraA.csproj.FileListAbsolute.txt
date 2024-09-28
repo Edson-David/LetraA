@@ -1,0 +1,14 @@
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\bin\Debug\net8.0\LetraA.exe
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\bin\Debug\net8.0\LetraA.deps.json
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\bin\Debug\net8.0\LetraA.runtimeconfig.json
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\bin\Debug\net8.0\LetraA.dll
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\bin\Debug\net8.0\LetraA.pdb
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\obj\Debug\net8.0\LetraA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\obj\Debug\net8.0\LetraA.AssemblyInfoInputs.cache
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\obj\Debug\net8.0\LetraA.AssemblyInfo.cs
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\obj\Debug\net8.0\LetraA.csproj.CoreCompileInputs.cache
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\obj\Debug\net8.0\LetraA.dll
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\obj\Debug\net8.0\refint\LetraA.dll
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\obj\Debug\net8.0\LetraA.pdb
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\obj\Debug\net8.0\LetraA.genruntimeconfig.cache
+C:\Users\edson\Documents\C#\Estagio\LetraA\LetraA\obj\Debug\net8.0\ref\LetraA.dll
